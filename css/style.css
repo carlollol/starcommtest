@@ -490,6 +490,10 @@ h1, h2, h3, h4, h5, h6, figure {
   background: rgba(49, 122, 225, 0.03);
 }
 
+#main_index{
+  padding-bottom: 2em;
+}
+
 #fh5co-mission,
 #fh5co-about,
 #fh5co-services,
